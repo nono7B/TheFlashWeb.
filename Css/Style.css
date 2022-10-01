@@ -576,6 +576,14 @@ footer.footer .move-up span:hover{
         width: 80% !important;
     }
 
+}.progress_bar {
+  height: 10px;
+  background: orange;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  box-shadow: 0 0 10px rgba(0, 0, 0, .1);
 }
 
 /*        x      Viewport less then or equal to 520px       x     */
